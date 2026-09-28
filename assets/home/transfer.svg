@@ -1,0 +1,52 @@
+<svg preserveAspectRatio="none" overflow="visible" style="display: block;" width="40" height="40" viewBox="0 0 40 40" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="Transfer 1">
+<g id="Glass-tile">
+<path id="Vector" d="M28.125 2.5H11.875C6.69733 2.5 2.5 6.69733 2.5 11.875V28.125C2.5 33.3027 6.69733 37.5 11.875 37.5H28.125C33.3027 37.5 37.5 33.3027 37.5 28.125V11.875C37.5 6.69733 33.3027 2.5 28.125 2.5Z" fill="url(#paint0_linear_0_4)"/>
+<path id="Vector_2" d="M28.125 2.5H11.875C6.69733 2.5 2.5 6.69733 2.5 11.875V28.125C2.5 33.3027 6.69733 37.5 11.875 37.5H28.125C33.3027 37.5 37.5 33.3027 37.5 28.125V11.875C37.5 6.69733 33.3027 2.5 28.125 2.5Z" fill="url(#paint1_radial_0_4)"/>
+<path id="Vector_3" d="M28.125 2.73438H11.875C6.82677 2.73438 2.73438 6.82677 2.73438 11.875V28.125C2.73438 33.1732 6.82677 37.2656 11.875 37.2656H28.125C33.1732 37.2656 37.2656 33.1732 37.2656 28.125V11.875C37.2656 6.82677 33.1732 2.73438 28.125 2.73438Z" stroke="url(#paint2_linear_0_4)" stroke-width="1.5"/>
+</g>
+<g id="Transfer-Paper-Plane" opacity="0.85">
+<path id="Fold-Base" d="M29.1668 13.2413C29.4836 13.1226 29.6684 13.2875 29.5562 13.6307L25.3851 26.1963C25.2927 26.4867 25.0684 26.6253 24.7648 26.5131L20.3627 25.0376L16.7989 27.9452C16.6339 28.0838 16.5085 28.0376 16.4623 27.8264L15.5185 23.4905L9.9219 21.0882C9.47972 20.8969 9.49952 20.6065 9.9417 20.4415L29.1668 13.2413Z" fill="url(#paint3_linear_0_4)"/>
+<path id="Lower-Fold" d="M17.7361 24.1563L20.3628 25.0368L16.799 27.9445C16.7066 28.0236 16.6274 28.0434 16.568 27.9972L17.7361 24.1563Z" fill="url(#paint4_linear_0_4)"/>
+<path id="Left-Wing" d="M9.9417 20.4409L29.1668 13.2408C29.3516 13.1748 29.477 13.188 29.5496 13.287L15.5185 23.4899L9.9219 21.0877C9.47972 20.8963 9.49952 20.6059 9.9417 20.4409Z" fill="url(#paint5_linear_0_4)"/>
+<path id="Right-Wing" d="M29.5496 13.2867C29.6156 13.3659 29.6156 13.4517 29.5562 13.6298L25.3852 26.1954C25.2928 26.4858 25.0684 26.6244 24.7648 26.5122L17.7361 24.1562L29.5496 13.2867Z" fill="url(#paint6_linear_0_4)"/>
+</g>
+</g>
+<defs>
+<linearGradient id="paint0_linear_0_4" x1="5.84135" y1="34.1587" x2="34.1587" y2="5.84134" gradientUnits="userSpaceOnUse">
+<stop stop-color="#ED1846"/>
+<stop offset="1" stop-color="#FFCC32"/>
+</linearGradient>
+<radialGradient id="paint1_radial_0_4" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(8.75 6.25) rotate(45) scale(34.6875)">
+<stop stop-color="#FFF0BD" stop-opacity="0.46"/>
+<stop offset="0.51" stop-color="#FFDDAD" stop-opacity="0.1"/>
+<stop offset="1" stop-color="#FFF0DB" stop-opacity="0"/>
+</radialGradient>
+<linearGradient id="paint2_linear_0_4" x1="3.125" y1="2.5" x2="34.0625" y2="37.5" gradientUnits="userSpaceOnUse">
+<stop stop-color="#FFF5D9" stop-opacity="0.8"/>
+<stop offset="0.48" stop-color="#FFE3BB" stop-opacity="0.28"/>
+<stop offset="1" stop-color="#FFE5CF" stop-opacity="0.6"/>
+</linearGradient>
+<linearGradient id="paint3_linear_0_4" x1="28.8038" y1="13.8485" x2="15.9346" y2="26.586" gradientUnits="userSpaceOnUse">
+<stop stop-color="#CAD1D9"/>
+<stop offset="0.39" stop-color="#DCE1E7"/>
+<stop offset="0.78" stop-color="#E9EDF2"/>
+<stop offset="1" stop-color="#F3F5F8"/>
+</linearGradient>
+<linearGradient id="paint4_linear_0_4" x1="18.7723" y1="24.5391" x2="16.8584" y2="27.9709" gradientUnits="userSpaceOnUse">
+<stop stop-color="#AFB9C6"/>
+<stop offset="0.64" stop-color="#C0C9D3"/>
+<stop offset="1" stop-color="#D2D9E1"/>
+</linearGradient>
+<linearGradient id="paint5_linear_0_4" x1="17.7822" y1="16.8837" x2="20.29" y2="23.4834" gradientUnits="userSpaceOnUse">
+<stop stop-color="white"/>
+<stop offset="0.62" stop-color="#FCFCFD"/>
+<stop offset="1" stop-color="#F5F6F8"/>
+</linearGradient>
+<linearGradient id="paint6_linear_0_4" x1="21.8081" y1="18.2693" x2="25.9658" y2="24.803" gradientUnits="userSpaceOnUse">
+<stop stop-color="#F5F7FA"/>
+<stop offset="0.5" stop-color="white"/>
+<stop offset="1" stop-color="#FBFCFE"/>
+</linearGradient>
+</defs>
+</svg>
